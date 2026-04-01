@@ -6,7 +6,7 @@ To install :
 ```bash
 uv sync
 ```
-If uv sync does
+If uv sync does'nt work
 ```bash
 uv pip install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu130
 
